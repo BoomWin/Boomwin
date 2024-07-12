@@ -4,26 +4,7 @@
 
 저는 한국에서 온 열정적인 개발자이자 연구원입니다. 현재 국민대학교 IoT 보안 연구실에서 활동하고 있으며, IoT, 사이버 보안 및 소프트웨어 개발 분야에 전문성을 가지고 있습니다.
 
-## 🛠️ 기술 스택
 
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-      <!-- My Main Skill -->
-        <p><strong>Others</strong></p>
-        <div>
-            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-            <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-            <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-        </div><br>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
-    </div><br>
-      
-
-</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 

@@ -26,8 +26,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=airbnb-clone&theme=merko)](https://github.com/BoomWin/airbnb-clone)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=pingdo_EV&theme=merko)](https://github.com/BoomWin/pingdo_EV)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=Server_Client&theme=merko)](https://github.com/BoomWin/Server_Client)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=Bam_Killer-Snake_game&theme=merko)](https://github.com/BoomWin/Bam_Killer-Snake_game)
 
+## 자주 사용하는 언어
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## 📫 연락처
 

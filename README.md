@@ -64,10 +64,8 @@
 
 연락 주삼 이메일로
 
----
 <img src="https://github.com/BoomWin/BoomWin/blob/output/github-contribution-grid-snake.svg"/>
 
 
-![Footer](https://github.com/BoomWin/BoomWin/blob/main/footer.png)
 
 

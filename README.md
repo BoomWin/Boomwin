@@ -24,8 +24,8 @@
 
 ## 🌟 주요 저장소
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=airbnb-clone&theme=radical)](https://github.com/BoomWin/airbnb-clone)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=pingdo_EV&theme=radical)](https://github.com/BoomWin/pingdo_EV)
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=airbnb-clone&theme=radical)](https://github.com/BoomWin/airbnb-clone)- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=pingdo_EV&theme=radical)](https://github.com/BoomWin/pingdo_EV)
+
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=Server_Client&theme=radical)](https://github.com/BoomWin/Server_Client)
 
 ## 📫 연락처

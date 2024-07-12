@@ -1,8 +1,6 @@
-## Hi BoomWin 👋
-
-![Header](https://github.com/BoomWin/BoomWin/blob/main/header.png)
-
-![Header](https://github.com/BoomWin/BoomWin/blob/main/header.png)
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome to BoomWin's GitHub👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 # 안녕하세요, 저는 김찬혁(BoomWin)입니다 👋
 
@@ -10,7 +8,6 @@
 
 ## 🛠️ 기술 스택
 
-## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>

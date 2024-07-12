@@ -1,8 +1,5 @@
 ## Hi BoomWin 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=BoomWin_Github&fontSize=90)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<a href="https://github.com/Boomwin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=BoomWin&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Boomwin's github stats" /></a>

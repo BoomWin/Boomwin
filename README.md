@@ -2,18 +2,23 @@
 
 ![Header](https://github.com/BoomWin/BoomWin/blob/main/header.png)
 
+![Header](https://github.com/BoomWin/BoomWin/blob/main/header.png)
+
 # 안녕하세요, 저는 김찬혁(BoomWin)입니다 👋
 
 저는 한국에서 온 열정적인 개발자이자 연구원입니다. 현재 국민대학교 IoT 보안 연구실에서 활동하고 있으며, IoT, 사이버 보안 및 소프트웨어 개발 분야에 전문성을 가지고 있습니다.
 
 ## 🛠️ 기술 스택
 
-- **언어:** Java, C, C++, Python
-- **암호화 기술:** RSA, AES, PQC
-- **도구:** Git, Docker, Jenkins
-- **관심 분야:** IoT 보안, 머신러닝, 웹 개발
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RSA](https://img.shields.io/badge/RSA-1A1A1A?style=for-the-badge&logo=rsa&logoColor=white)
+![AES](https://img.shields.io/badge/AES-FFA500?style=for-the-badge&logo=aes&logoColor=white)
+![PQC](https://img.shields.io/badge/PQC-FF5733?style=for-the-badge&logo=pqc&logoColor=white)
 
-## 🔥 GitHub 통계
+## 📊 GitHub 통계
 
 ![BoomWin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoomWin&show_icons=true&theme=radical)
 
@@ -36,4 +41,5 @@
 ---
 
 ![Footer](https://github.com/BoomWin/BoomWin/blob/main/footer.png)
+
 

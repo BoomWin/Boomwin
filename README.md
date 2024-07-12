@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=BoonWin'sGitHub%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20BoomWin's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 # 안녕하세요, 저는 김찬혁(BoomWin)입니다 👋
 

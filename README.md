@@ -20,11 +20,11 @@
 
 ## 📊 GitHub 통계
 
-![BoomWin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoomWin&show_icons=true&theme=radical)
+![BoomWin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoomWin&show_icons=true&theme=merko)
 
 ## 🌟 주요 저장소
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=airbnb-clone&theme=radical)](https://github.com/BoomWin/airbnb-clone)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=pingdo_EV&theme=radical)](https://github.com/BoomWin/pingdo_EV)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=Server_Client&theme=radical)](https://github.com/BoomWin/Server_Client)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=Bam_Killer-Snake_game&theme=radical)](https://github.com/BoomWin/Bam_Killer-Snake_game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=airbnb-clone&theme=merko)](https://github.com/BoomWin/airbnb-clone)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=pingdo_EV&theme=merko)](https://github.com/BoomWin/pingdo_EV)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=Server_Client&theme=merko)](https://github.com/BoomWin/Server_Client)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=Bam_Killer-Snake_game&theme=merko)](https://github.com/BoomWin/Bam_Killer-Snake_game)
 
 
 

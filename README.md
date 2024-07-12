@@ -22,8 +22,7 @@
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
     </div><br>
       
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
+
 </div>
 
 ## 📊 GitHub 통계

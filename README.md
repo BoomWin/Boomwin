@@ -2,37 +2,38 @@
 
 ![Header](https://github.com/BoomWin/BoomWin/blob/main/header.png)
 
-# Hi there, I'm Chan-hyuk Kim (BoomWin) 👋
+# 안녕하세요, 저는 김찬혁(BoomWin)입니다 👋
 
-I'm a passionate developer and researcher from South Korea, currently working at Kookmin University's IoT Security Lab. I specialize in various fields including IoT, cybersecurity, and software development.
+저는 한국에서 온 열정적인 개발자이자 연구원입니다. 현재 국민대학교 IoT 보안 연구실에서 활동하고 있으며, IoT, 사이버 보안 및 소프트웨어 개발 분야에 전문성을 가지고 있습니다.
 
-## 🛠️ Technologies & Tools
+## 🛠️ 기술 스택
 
-- **Languages:** Python, C++, Java, JavaScript
-- **Frameworks:** Django, TailWind
-- **Tools:** Git, Docker, Jenkins
-- **Interests:** IoT Security, Machine Learning, Web Development
+- **언어:** Java, C, C++, Python
+- **암호화 기술:** RSA, AES, PQC
+- **도구:** Git, Docker, Jenkins
+- **관심 분야:** IoT 보안, 머신러닝, 웹 개발
 
-## 🔥 My GitHub Stats
+## 🔥 GitHub 통계
 
 ![BoomWin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoomWin&show_icons=true&theme=radical)
 
-## 🌟 Featured Repositories
+## 🌟 주요 저장소
 
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=airbnb-clone&theme=radical)](https://github.com/BoomWin/airbnb-clone)
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=pingdo_EV&theme=radical)](https://github.com/BoomWin/pingdo_EV)
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BoomWin&repo=Server_Client&theme=radical)](https://github.com/BoomWin/Server_Client)
 
-## 📫 How to Reach Me
+## 📫 연락처
 
-- **Email:** boomwin@example.com
+- **이메일:** boomwin@example.com
 - **LinkedIn:** [chan-hyuk-kim](https://www.linkedin.com/in/chan-hyuk-kim)
-- **Website:** [boomwin.dev](https://boomwin.dev)
+- **웹사이트:** [boomwin.dev](https://boomwin.dev)
 
-## 💬 Let's Connect
+## 💬 소통하기
 
-Feel free to reach out if you have any questions or if you're interested in collaborating on exciting projects!
+궁금한 점이 있거나 흥미로운 프로젝트에 협업하고 싶으시면 언제든지 연락 주세요!
 
 ---
 
 ![Footer](https://github.com/BoomWin/BoomWin/blob/main/footer.png)
+

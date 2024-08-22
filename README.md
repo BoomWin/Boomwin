@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20BoomWin's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-# 안녕하세요, 저는 김찬혁입니다 👋
+# Hi, I'm ChanHyuk Kim 👋
 
-저는 한국에서 온 열정적인 개발자이자 연구원입니다.<br>
-현재 국민대학교 IoT 보안 연구실에서 활동하고 있으며, IoT, 사이버 보안 및 소프트웨어 개발 분야에 전문성을 가지고 있습니다.
+I am a passionate developer and researcher from Korea.<br>
+Currently, I work at Kookmin University's IoT Security Lab and have expertise in IoT, cybersecurity, and software development.
 <br>
 
 

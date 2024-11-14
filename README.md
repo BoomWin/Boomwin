@@ -60,7 +60,7 @@ Currently, I work at Kookmin University's IoT Security Lab and have expertise in
 
 ## 📊 GitHub 통계
 
-![BoomWin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoomWin&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomwin&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 ## 🌟 주요 저장소
 

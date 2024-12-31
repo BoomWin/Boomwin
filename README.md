@@ -25,7 +25,7 @@ Currently, I work at Kookmin University's IoT Security Lab and have expertise in
 
 
 ## 📊 GitHub 통계
-![김찬혁's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomwin&show_icons=true&bg_color=00000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomwin&show_icons=true&bg_color=00000000&count_private=true)
 
 ## 🌟 주요 저장소
 

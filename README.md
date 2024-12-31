@@ -23,9 +23,9 @@ Currently, I work at Kookmin University's IoT Security Lab and have expertise in
   <img src="https://img.shields.io/badge/Crypto-339AF0?style=for-the-badge&logo=" "&logoColor=white">
 </div>
 
-## 📊 GitHub 통계
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomwin&show_icons=true&bg_color=00000000)
+## 📊 GitHub 통계
+![김찬혁's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomwin&show_icons=true&bg_color=00000000)
 
 ## 🌟 주요 저장소
 

@@ -43,8 +43,6 @@ Currently, I work at Kookmin University's IoT Security Lab and have expertise in
 
 연락 주삼 이메일로
 
-<img src="https://github.com/BoomWin/BoomWin/blob/output/github-contribution-grid-snake.svg"/>
-
 
 
 

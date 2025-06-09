@@ -3,7 +3,7 @@
 # Hi, I'm ChanHyuk Kim 👋
 
 I am a passionate developer and researcher from Korea.<br>
-Currently, I work at Kookmin University's IoT Security Lab and have expertise in IoT, cybersecurity, and software development.
+Currently, I work at Kookmin University's IoT Security Lab and have expertise in IoT, cybersecurity, and network engineer.
 <br>
 
 
@@ -24,23 +24,13 @@ Currently, I work at Kookmin University's IoT Security Lab and have expertise in
 </div>
 
 
-## 📊 GitHub 통계
-![BoomWin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoomWin&show_icons=true&theme=dracula)
-## 🌟 주요 저장소
-
-나중에 BigNum 구현 추가
-
-## 자주 사용하는 언어
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boomwin&layout=compact)
 
 ## 📫 연락처
 
 - **이메일:** 20192223@kookmin.ac.kr
 
-## 💬 소통하기
 
-연락 주삼 이메일로
+
 
 
 

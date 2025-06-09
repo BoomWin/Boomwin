@@ -25,8 +25,7 @@ Currently, I work at Kookmin University's IoT Security Lab and have expertise in
 
 
 ## 📊 GitHub 통계
-![Boomwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomwin&count_private=true)
-
+![BoomWin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoomWin&show_icons=true&theme=dracula)
 ## 🌟 주요 저장소
 
 나중에 BigNum 구현 추가

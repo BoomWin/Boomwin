@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20BoomWin's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
-# Hi, I'm ChanHyuk Kim 👋
+# Hi, I'm ChanHyuk Kim 
+### Main Skils : Network Engineer & Crypto Engineer)👋
+### Sub Skils : Front & Back Develop
+### Degree : Research Master Course
 
-I am a passionate developer and researcher from Korea.<br>
-Currently, I work at Kookmin University's IoT Security Lab and have expertise in IoT, cybersecurity, and network engineer.
-<br>
 
+<p align="center">
+  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=①BoomWin&show_icons=true&theme=shadow_red)
+</p>
 
 ---
 

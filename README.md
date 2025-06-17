@@ -2,7 +2,7 @@
 # Hi, I'm ChanHyuk Kim 
 
 <p align="center">
-  <img src="https://your-vercel-url/api/stats" alt="GitHub Stats Card" />
+  <img src="https://commit-ryxxn.vercel.app/api/stats" alt="GitHub Stats Card" />
 </p>
 ---
 

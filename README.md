@@ -7,8 +7,9 @@
 
 
 <p align="center">
-  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=①BoomWin&show_icons=true&theme=shadow_red)
+  <img src="https://github-readme-stats.vercel.app/api?username=BoomWin&show_icons=true&theme=shadow_red" alt="BoomWin's GitHub stats" />
 </p>
+
 
 ---
 

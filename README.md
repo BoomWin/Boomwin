@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20BoomWin's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 # Hi, I'm ChanHyuk Kim 
-### Main Skils : Network Engineer & Crypto Engineer)👋
-### Sub Skils : Front & Back Develop
-### Degree : Research Master Course
+- Main Skils : Network Engineer & Crypto Engineer)👋
+- Sub Skils : Front & Back Develop
+- Degree : Research Master Course
 
 
 <p align="center">

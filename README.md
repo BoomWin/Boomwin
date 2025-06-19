@@ -25,7 +25,8 @@
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
   
-  <img src="https://img.shields.io/badge/Crypto-339AF0?style=for-the-badge&logo=" "&logoColor=white">
+  ![crypto pqc](https://img.shields.io/badge/crypto-pqc-blueviolet?logo=lock&logoColor=white&style=for-the-badge)
+
   
 </div>
 

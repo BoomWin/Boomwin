@@ -2,7 +2,7 @@
 # Hi, I'm ChanHyuk Kim 
 
 <p align="center">
-  <img src="https://commit-ryxxn.vercel.app/api/stats" alt="GitHub Stats Card" />
+  <img src="https://boomwin-commit-stat.vercel.app/api/stats" alt="GitHub Stats Card" />
 </p>
 
 ---
@@ -42,15 +42,15 @@
   <img src="https://img.shields.io/badge/EAP-228B22?style=for-the-badge&logo=wireguard&logoColor=white">
 
   <!-- 🔒 특수 기술 -->
-  <h3>특수 기술</h3>
+  <h3>Special Skills</h3>
   <img src="https://img.shields.io/badge/crypto-pqc-blueviolet?logo=lock&logoColor=white&style=for-the-badge">
 </div>
 
 <div align="center">
-  <h3>📄 논문</h3>
+  <h3>📄 Paper</h3>
 
   <!-- 논문 1 -->
-  <a href="YOUR_PAPER_URL_1">
+  <a href="Study on Security Mechanisms for Interworking Between qSIM-Based 5G Networks and Next-Generation M-BcN">
     <img src="https://img.shields.io/badge/My_Paper_1-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
   </a>
 </div>

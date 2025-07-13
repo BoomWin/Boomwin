@@ -50,7 +50,7 @@
   <h3>📄 Paper</h3>
 
   <!-- 논문 1 -->
-  <a href="Study on Security Mechanisms for Interworking Between qSIM-Based 5G Networks and Next-Generation M-BcN">
+  <a href="[Study on Security Mechanisms for Interworking Between qSIM-Based 5G Networks and Next-Generation M-BcN](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003212493)">
     <img src="https://img.shields.io/badge/My_Paper_1-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
   </a>
 </div>

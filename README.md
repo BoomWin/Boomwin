@@ -1,11 +1,6 @@
 
 # Hi, I'm ChanHyuk Kim 
 
-[![BoomWin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoomWin&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 ---
 
 - Main Skils : Network Engineer & Crypto Engineer👋

@@ -1,7 +1,7 @@
 
 # Hi, I'm ChanHyuk Kim 
 
-[![Boomwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomwinm)](https://github.com/Boomwin/github-readme-stats)
+[![Boomwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomwin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

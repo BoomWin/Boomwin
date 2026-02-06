@@ -1,11 +1,8 @@
 
 # Hi, I'm ChanHyuk Kim 
 
-<p align="center">
-  <a href="https://github.com/Boomwin/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Boomwinm" />
-  </a>
-</p>
+[![Boomwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boomwinm)](https://github.com/Boomwin/github-readme-stats)
+
 
 
 ---

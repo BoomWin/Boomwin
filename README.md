@@ -2,8 +2,11 @@
 # Hi, I'm ChanHyuk Kim 
 
 <p align="center">
-  <img src="https://boomwin-commit-stat.vercel.app/api/stats" alt="GitHub Stats Card" />
+  <a href="https://github.com/Boomwin/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Boomwinm" />
+  </a>
 </p>
+
 
 ---
 

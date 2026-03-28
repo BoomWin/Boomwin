@@ -65,26 +65,16 @@
 
 ## 👨‍💻 Projects
 
-- **[2024.06.01 ~ 2026.12.31]** Development of Sniffing Prevention Technology in Mobile Communication and Air-Gap Environments, IITP
-
-- **[2024.10.01 ~ 2025.04.30]** Research on PQC Optimization and Security Protocol Application for Secure Next-Generation IoT Communication Environments, IITP
-
-- **[2025.03.01 ~ 2025.12.31]** Development of Quantum Security-Based 5G Specialized Network Device Identification and Test Verification Technology, (TTA)
-
-- **[2025.03.01 ~ 2025.12.31]** Development of Security Technology for Interworking Between Defense Information Communication Networks and Commercial Networks (5G) (4/4), IITP
-
-- **[2025.03.01 ~ 2025.12.31]** Research on 5G+ Based 6G Mobile Communication Information Security Technology (Phase 2-2/4), IITP
-
-- **[2025.04.01 ~ 2025.12.31]** Comparative Analysis of Domestic and International Security Control Items for Unmanned Mobile Systems and Study on Their Application to Defense Systems, Ministry of National Defense
-
-- **[2025.05.12 ~ 2025.12.15]** Research Service on the Future Direction of Military-Led Cryptographic Equipment R&D, Ministry of National Defense
-
-- **[2025.06.25 ~ 2025.12.31]** Research Service for Establishing a Security Management System for Facility Projects, Defense Installation Agency
-
-- **[2025.07.03 ~ 2025.12.31]** Policy Research on the Direction of Defense 5G Infrastructure Construction, Ministry of National Defense
-
-- **[2025.07.28 ~ 2025.08.15]** Research Service on Functional Testing of Quantum Cryptographic Key Management Equipment (QKMS) Through Interworking with Quantum Encryption Equipment (QENC), Private Industry
-
+- [2024.06.01 ~ 2026.12.31] 이동통신 및 AirGap 환경에서 스니핑 방지 기술 개발  - 정보통신기획평가원(IITP)
+- [2024.10.01 ~ 2025.04.30] 안전한 차세대 IoT 통신 환경 구축을 위한 양자내성암호 최적화 및 보안프로토콜 적용 연구 - 정보통신기획평가원(IITP)
+- [2025.03.01 ~ 2025.12.31] 양자보안 기반 5G 특화망 기기 식별 기술 및 시험검증 기술 개발 - 한국정보통신기술협회(TTA)
+- [2025.03.01 ~ 2025.12.31] 국방정보통신망-상용망(5G) 연동을 위한 보안 기술 개발(4/4) - 정보통신기획평가원(IITP)
+- [2025.03.01 ~ 2025.12.31] 5G+ 기반 6G 이동통신 정보보안 기술 연구(2단계-2/4) - 정보통신기획평가원(IITP)
+- [2025.04.01 ~ 2025.12.31] 국내외 무인이동체 보안 통제항목 비교 분석 및 국방 체계 적용 방안 연구 - 국방부
+- [2025.05.12 ~ 2025.12.15] 군 주도 암호장비 연구개발 발전방향 연구용역 - 국방부
+- [2025.06.25 ~ 2025.12.31] 시설사업 보안관리체계 정립을 위한 연구용역 - 국방시설본부
+- [2025.07.03 ~ 2025.12.31] 국방 5G 인프라구축 방향에 대한 정책 연구 - 국방부
+- [2025.07.28 ~ 2025.08.15] 양자암호화장비(QENC)와의 연동을 통한 양자암호키연동장비(QKMS)기능시험 연구용역 - 일반산업체
 ---
 
 ## 📫 Contact

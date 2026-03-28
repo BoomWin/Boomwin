@@ -1,7 +1,5 @@
 # 김찬혁 (Chan Hyuk Kim)
 Hi, Im chan hyuk kim, brahhhh
----
-![chanhyuk](https://github.com/user-attachments/assets/a27d20b1-72b5-400a-924e-ded301600091)
 
 ## 김찬혁 (Chan Hyuk Kim)
 

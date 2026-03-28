@@ -1,5 +1,3 @@
-# 김찬혁 (Chan Hyuk Kim)
-Hi, Im chan hyuk kim, brahhhh
 
 ## 김찬혁 (Chan Hyuk Kim)
 
